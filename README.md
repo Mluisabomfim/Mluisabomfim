@@ -1,5 +1,6 @@
-## Hii, eu sou a Malu✨
+<img width="1000" height="220" alt="malu_github_intro" src="https://github.com/user-attachments/assets/4ebd92e4-a935-4073-b3e5-318ca0aba534" />
 
+##
 
 - 🔭 Cientista de Dados & Inteligencia Artificial
 - 📖 PUCC
