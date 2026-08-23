@@ -23,3 +23,7 @@
   
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <img alt="GitHub Gráfico de Contribuição Cobra" src="https://githubusercontent.com">
+</picture>
